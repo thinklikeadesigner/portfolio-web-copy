@@ -6,7 +6,7 @@ import App from './App';
 
 injectTapEventPlugin();
 ReactDOM.render(
-  <Router basename={`/portfolio-app`}>
+  <Router basename={`/portfolio-web-copy`}>
 <App />
 </Router>, 
   document.getElementById('root')
